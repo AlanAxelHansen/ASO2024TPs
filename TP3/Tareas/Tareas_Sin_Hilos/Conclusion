@@ -1,0 +1,9 @@
+1)Por lo que veo la variacion del tiempo es muy poca pero claramente depende
+de los componentes de la PC, se nota que depende de la carga de la cpu en el tiempo
+de ejecutar el programa.
+Al ejecutarlo CON los hilos, es bastante mas rapido. Por mas que este programa sea de prueba
+
+2)Si tiene que ser algo relacionado con la computadora te diria que el renderizado de imagen.
+
+3)Jugando con amigos se me ocurrio que puede ser la comunicacion online digamos.
+Ya que no depende tanto de la velocidad de procesado, sino de latencia y red.
